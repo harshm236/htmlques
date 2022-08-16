@@ -1,0 +1,24 @@
+body{
+    font-size: 22px;
+    background-image: radial-gradient(
+        red,
+        blue,
+        green
+    );
+}
+div{
+    margin-left: 120px;
+    width: 80%;
+    height: auto;
+    border: rgb(0, 255, 0) dotted 2px;
+    color: black;
+    background-color: whitesmoke;
+}
+.test1{
+    width: auto;
+    height: auto;
+}
+.test1:hover{
+    height: 20px;
+    
+}
